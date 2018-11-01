@@ -1,6 +1,6 @@
 # JS Dice Pig-Game
 
-WHAT:
+A. WHAT:
 A dice game called pig-game used as both section project  and "playground' to practice and apply learned JavaScript concepts and lessons;
 	A. DOM Manipulation
 	B. Calling and Passing Functions
@@ -9,7 +9,7 @@ A dice game called pig-game used as both section project  and "playground' to pr
 	
 	
 
-HOW:
+B. HOW:
 The game is only available to play locally via web browser.
 The game is available as a local multiplayer game, the game does not currently have a single player or online multiplayer capability.
     * How to play the game - RULES *
@@ -23,7 +23,7 @@ The game is available as a local multiplayer game, the game does not currently h
 	
 
 
-WHERE:
+C. WHERE:
 To play the game click the link below:   http://marcusnapoleon.com/pig-game-3/
 	
 
