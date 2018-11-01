@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link href="https://fonts.googleapis.com/css?family=Lato:100,300,600" rel="stylesheet" type="text/css">
+        <link href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css">
+        <link type="text/css" rel="stylesheet" href="style.css">
+        
+        <title>Pig Game v3</title>
+    </head>
+
+    <body>
+    	<div id="marcus">
+        	<br>
+        	<h2>marcusnapoleon</h2>
+        	<h1>Dice "Pig-Game" v3 - JavaScript course project</h1>
+        </div>
+        <div class="diceRollVal"></div>
+        
+        <!--<audio id="roll6Bell" src="http://www.soundjay.com/button/beep-07.wav"></audio>-->
+        
+        <audio id="roll1Bell" src="bell.wav" type="audio/wav"></audio>
+        <audio id="roll1Bell" src="bell.mp3" type="audio/mpeg"></audio>
+        
+        <audio id="roll6Smash" src="smash.wav" type="audio/wav"></audio>
+        <audio id="roll6Smash" src="smash.mp3" type="audio/mpeg"></audio>
+        
+        <audio id="winTada" src="tada.wav" type="audio/wav"></audio>
+        <audio id="winTada" src="tada.mp3" type="audio/mpeg"></audio>
+       
+        <div class="wrapper clearfix">
+            <div class="player-0-panel active">
+                <div class="player-name" id="name-0">Player 1</div>
+                <div class="player-score" id="score-0">43</div>
+                <div class="player-current-box">
+                    <div class="player-current-label">Current</div>
+                    <div class="player-current-score" id="current-0">11</div>
+                </div>
+            </div>
+            
+            <div class="player-1-panel">
+                <div class="player-name" id="name-1">Player 2</div>
+                <div class="player-score" id="score-1">72</div>
+                <div class="player-current-box">
+                    <div class="player-current-label">Current</div>
+                    <div class="player-current-score" id="current-1">0</div>
+                </div>
+            </div>
+            
+            <button class="btn-new"><i class="ion-ios-plus-outline"></i>New game</button>
+            <button class="btn-roll"><i class="ion-ios-loop"></i>Roll dice</button>
+            <button class="btn-hold"><i class="ion-ios-download-outline"></i>Hold</button><br>
+            
+            <img src="dice-5.png" alt="Dice" class="dice">
+            
+            <div class="pointSelect">
+            	<h4>Play to <input id="newPointLimit" > points</h4>
+            </div>
+        </div>
+        
+        
+        
+        <script src="appChallenge1.js"></script>
+    </body>
+</html>
