@@ -19,7 +19,7 @@ The game is available as a local multiplayer game, the game does not currently h
 	4. If the active player rolls a '6', a smash sound will play, and any points in the current box as well accumulated total(Global) points will disappear, and player turn end and the active player changes.
 	5. A player is declared a winner when they reach the default '100' points or the winning point the players have assigned to the round at before starting the game.
 	
-	*** Winning points can be changed while on a an active game, players can elect to assign a new higher or lower winning points.
+*** Winning points can be changed at any time while on a an active game, players can elect to assign a new higher or lower winning points.
 	
 
 
