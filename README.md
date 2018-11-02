@@ -2,6 +2,7 @@
 
 A. WHAT:
 A dice game called pig-game used as both section project  and "playground' to practice and apply learned JavaScript concepts and lessons;
+
 	A. DOM Manipulation
 	B. Calling and Passing Functions
 	C. Hoisting
