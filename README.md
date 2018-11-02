@@ -13,6 +13,7 @@ A dice game called pig-game used as both section project  and "playground' to pr
 B. HOW:
 The game is only available to play locally via web browser.
 The game is available as a local multiplayer game, the game does not currently have a single player or online multiplayer capability.
+
     * How to play the game - RULES *
 	1. The game tracks an active players current dice rolls, which is reflected in the current box of the active player.
 	2. The points accumulated in the current point will only be considered/counted as the active players total(Global) score if they click the hold button, which saves the	points and player turn ends and the active player changes.
