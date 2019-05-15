@@ -1,11 +1,12 @@
 /*
 GAME RULES:
 
-- The game has 2 players, playing in rounds
-- In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
-- BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
-- The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
-- The first player to reach 100 points on GLOBAL score wins the game
+- The game has 2 players, playing in turns.
+- In each turn, a player rolls a dice as many times as he whishes. Each result gets added to his ROUND score,
+- BUT, if the player rolls a 1, all his ROUND scores gets deleted, and players change automatically.
+- A player can choose to 'Hold', meaning the players ROUND score will be added/stored to players GLOBAL score,
+  and players change turns automatically
+- The first player to reach 100 points on GLOBAL score wins the game.
 
 */
 
